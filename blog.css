@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Project: Blog</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.5;
+      }
+
+      h1 {
+        font-size: 2.5rem;
+        text-align: center;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+      }
+
+      h2 {
+        font-size: 1.8rem;
+        margin-top: 1.5rem;
+        margin-bottom: 1rem;
+      }
+
+      h3 {
+        font-size: 1.5rem;
+        margin-top: 1.5rem;
+        margin-bottom: 1rem;
+      }
+
+      h4 {
+        font-size: 1.2rem;
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+      }
+
+      h5 {
+        font-size: 1rem;
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+      }
+
+      h6 {
+        font-size: 0.8rem;
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+      }
+
+      p {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
+
+      strong {
+        font-weight: bold;
+      }
+
+      a {
+        color: purple;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      #table-of-contents {
+        background-color: #f0f0f0;
+        padding: 1rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        border-radius: 5px;
+      }
+
+      #table-of-contents ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      #table-of-contents li {
+        margin: 0.5rem 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Parika's Blog</h1>
+
+    <div id="table-of-contents">
+      <h3>Table of Contents</h3>
+      <ul>
+        <li><a href="#journey-begins">The Journey Begins</a></li>
+        <li><a href="#going-deeper">Going Deeper</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
+      </ul>
+    </div>
+
+    <h2 id="journey-begins">The Journey Begins</h2>
+    <h6>Start year - 2023</h6>
+    <p>
+      As someone who studied business and has a passion for marketing, becoming a
+      web developer was not something I ever imagined myself doing. However, as I
+      started my career, I realized the importance of having technical skills,
+      especially in a world where digital marketing is becoming increasingly
+      important.
+    </p>
+
+    <h2 id="going-deeper">Going Deeper</h2>
+    <p>
+      After completing the basic courses, I decided to go deeper and the journey
+      has just begun!
+    </p>
+
+    <h2 id="conclusion">Conclusion</h2>
+    <p>
+      While becoming a web developer as a marketing enthusiast may seem like an
+      unlikely path, it's a journey that has allowed me to combine my passion for
+      marketing with mytechnical skills. It has opened up a world of opportunities for me and allowed me to work on projects that have a real impact on businesses and organizations. If you're considering a career in web development, I encourage you to take the leap and start learning today. You never know where it might take you!</p>
+        
+        
+        
+    </body>
+</html>
